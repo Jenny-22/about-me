@@ -13,7 +13,7 @@ function() {
         if (myPhoto.src == "about-me/IMG_0699.jpg"){
             myPhoto.src ="IMG_0942.PNG"
         }else{
-            myPhoto.src = "IMG_0699.jpg"
+            myPhoto.src = "about-me/IMG_0699.jpg"
         }
     }
 
