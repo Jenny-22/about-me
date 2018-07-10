@@ -10,7 +10,7 @@ function() {
 
     function changeImage(){
         console.log(myPhoto.src);
-        if (myPhoto.src == "file:///Users/girlswhocode2018/developement/html%20project/IMG_0699.jpg"){
+        if (myPhoto.src == "about-me/IMG_0699.jpg"){
             myPhoto.src ="IMG_0942.PNG"
         }else{
             myPhoto.src = "IMG_0699.jpg"
