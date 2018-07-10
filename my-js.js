@@ -11,7 +11,7 @@ function() {
     function changeImage(){
         console.log(myPhoto.src);
         if (myPhoto.src == "about-me/IMG_0699.jpg"){
-            myPhoto.src ="IMG_0942.PNG"
+            myPhoto.src ="about-me/IMG_0942.PNG"
         }else{
             myPhoto.src = "about-me/IMG_0699.jpg"
         }
